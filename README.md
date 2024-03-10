@@ -75,7 +75,7 @@ Harvestberg-Solutions is a <span style="color:#4CAF50">blockchain-powered soluti
 
 ## Contributors
 
-- <span style="color:#4CAF50">[Sarthak Mishra](https://github.com/yourusername)</span>
+- <span style="color:#4CAF50">[Sarthak Mishra](https://github.com/Sarthak-Mishra-5)</span>
 - <span style="color:#4CAF50">[Tanmay Sharma](https://github.com/cbof16)</span>
 - <span style="color:#4CAF50">[Shivam Uppal](https://github.com/shivamuppal2318)</span>
 - <span style="color:#4CAF50">[Rishabh Suryavanshi](https://github.com/rishh01)</span>
