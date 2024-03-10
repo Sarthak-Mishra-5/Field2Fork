@@ -14,7 +14,7 @@ Harvestberg-Solutions is a <span style="color:#4CAF50">blockchain-powered soluti
   - Enables direct investment from stakeholders to farmers through blockchain microfinance.
 
 - **<span style="color:#4CAF50">Price Prediction with Decision Tree Regressor:</span>**
-  - Predicts optimal selling prices for crops based on market conditions.
+  - Predicts optimal selling prices for crops based on environmental conditions.
 
 - **<span style="color:#4CAF50">Quality Verification and Transparency:</span>**
   - Verifies product quality at each stage of the supply chain.
