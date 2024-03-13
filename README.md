@@ -43,14 +43,11 @@ Harvestberg-Solutions is a <span style="color:#4CAF50">blockchain-powered soluti
 4. **<span style="color:#4CAF50">Configuration of Polygon Testnet:</span>**
    - Connect Polygon Mumbai Testnet to your deployed contracts in your truffle-config.js file.
 
-![Screenshot 2024-03-10 032123](https://github.com/Sarthak-Mishra-5/Test/assets/123402362/f5f00381-a922-474a-aba4-e715698bf2b3)
 
 ##                            OR
 
 4. **<span style="color:#4CAF50">Configuration of Sepoli ETH:</span>**
    - Connect Sepoli ETH to your MetaMask account in your truffle-config.js file.
-
-![Screenshot 2024-03-10 032056](https://github.com/Sarthak-Mishra-5/Test/assets/123402362/a1482298-b607-4ee1-a769-af452995e8e4)
 
 
 ## Usage
