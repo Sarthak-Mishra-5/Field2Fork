@@ -69,6 +69,9 @@ Harvestberg-Solutions is a <span style="color:#4CAF50">blockchain-powered soluti
 ## Presentation Link: 
 - <span style="color:#4CAF50">[Presentation](https://prezi.com/view/Ou9kj4uE0gNYn6VqRP13/)</span>
 
+## Article 
+[![Medium Article Link](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sarthakm890/harvestberg-solutions-7de03d22cbfd)
+
 
 ## Contributors
 
